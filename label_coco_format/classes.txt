@@ -1,0 +1,6 @@
+aeroplane
+bird
+boat
+cow
+motorcycle
+umbrella
